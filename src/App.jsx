@@ -173,7 +173,7 @@ export default function CollegeAuthPage() {
         <div className="card">
 
           <div className="left">
-            <h1>Campus Portal</h1>
+            <h1>Campus login</h1>
 
             <p>
               Welcome to the College Management System.
